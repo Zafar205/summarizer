@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="75" rx="195" ry="70" fill="url(#greenGradient)" />
+  
+  <!-- Icon: Document -->
+  <path d="M70,40 h40 v10 h-30 v50 h30 v10 h-40 Z M80,60 h20 M80,80 h20" fill="none" stroke="#ffffff" stroke-width="4"/>
+  
+  <!-- Icon: Arrow -->
+  <path d="M120,65 l10,-10 l10,10 M130,55 v40" fill="none" stroke="#ffffff" stroke-width="4"/>
+  
+  <!-- Text -->
+  <text x="240" y="85" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">Summarizer</text>
+</svg>
